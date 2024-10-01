@@ -1,0 +1,11 @@
+com\pacienteurgencia\clases\Paciente.class
+com\pacienteurgencia\clases\Atencion.class
+com\pacienteurgencia\clasificarPipes.class
+com\pacienteurgencia\filtros\FiltroUrgencia.class
+com\pacienteurgencia\Main.class
+com\pacienteurgencia\clases\Triage.class
+com\pacienteurgencia\filtros\FiltroClasificacion.class
+com\pacienteurgencia\filtros\Filtro.class
+com\pacienteurgencia\Tubo.class
+com\pacienteurgencia\filtros\FiltroClasificacion$1.class
+com\pacienteurgencia\filtros\FiltroCitas.class
